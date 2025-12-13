@@ -1,10 +1,10 @@
 
 {
-                "name": "Нет сборок",
-                "version": "1.0",
-                "description": "Загрузите сборки из интернета",
-                "details": "• Проверьте подключение к интернету\n• Перезагрузите лаунчер",
-                "mod_loader": None,
+                "name": "Adventures",
+                "version": "1.21.10",
+                "description": "Сборка добавляющая много нового",
+                "details": "• Новые биомы\n• Новые структуры \n• Новые интрументы \n• Прокаченный визуал! \n•Оптимизированна",
+                "mod_loader": fabric,
                 "loader_version": None,
-                "build_version": "v0"
+                "build_version": "v3"
 }
