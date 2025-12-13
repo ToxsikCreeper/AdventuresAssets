@@ -1,9 +1,11 @@
-{
-                  "name": "Adventures",
-                  "version": "1.21.10",
-                  "description": "Сборка добавляющая много нового",
-                  "details": "• Новые биомы\n• Новые структуры \n• Новые интрументы \n• Прокаченный визуал! \n •Оптимизированна",
-                  "mod_loader": "fabric",
-                  "loader_version": null,
-                  "build_version": "v4"
-}
+[
+  {
+    "name": "Adventures",
+    "version": "1.21.10",
+    "description": "Сборка добавляющая много нового контента в игру",
+    "details": "• Новые биомы\n• Новые структуры\n• Новые интрументы\n• Прокаченный визуал!\n• Оптимизированна для слабых ПК\n• Более 100+ новых предметов",
+    "mod_loader": "fabric",
+    "loader_version": null,
+    "build_version": "v3"
+  },
+]
