@@ -1,5 +1,4 @@
-[
-  {
+{
                   "name": "Adventures",
                   "version": "1.21.10",
                   "description": "Сборка добавляющая много нового",
@@ -7,5 +6,4 @@
                   "mod_loader": "fabric",
                   "loader_version": null,
                   "build_version": "v4"
-  }
-]
+}
