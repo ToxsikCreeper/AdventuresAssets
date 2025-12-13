@@ -1,1 +1,10 @@
 
+{
+                "name": "Нет сборок",
+                "version": "1.0",
+                "description": "Загрузите сборки из интернета",
+                "details": "• Проверьте подключение к интернету\n• Перезагрузите лаунчер",
+                "mod_loader": None,
+                "loader_version": None,
+                "build_version": "v0"
+}
