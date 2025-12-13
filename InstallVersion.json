@@ -5,7 +5,7 @@
                   "description": "Сборка добавляющая много нового",
                   "details": "• Новые биомы\n• Новые структуры \n• Новые интрументы \n• Прокаченный визуал! \n •Оптимизированна",
                   "mod_loader": "fabric",
-                  "loader_version": none,
+                  "loader_version": null,
                   "build_version": "v4"
   }
 ]
