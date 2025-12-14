@@ -1,13 +1,50 @@
 [
   {
     "name": "Adventures",
-    "version": "1.21.10",
-    "description": "Сборка орентированна на отмосферу и преключения",
-    "details": "• Новые биомы\n• Новые структуры\n• Новые интрументы\n• Прокаченный визуал!\n• Оптимизированна\n• Более 100+ новых предметов\n• Множевство разного",
-    "mod_loader": "fabric",
-    "loader_version": null,
-    "build_version": "v5",
+    "title": "Основной пак приключений",
+    "detals": "Основной сборка с Fabric модами, шейдерами и текстурпаками. Включает моды на магию, технологии и исследование.",
     "status": 0,
-    "status_message": "Сборка доступна для игры"
+    "status_description": "",
+    "last_version": "5"
+  },
+  {
+    "name": "AdventuresLite",
+    "title": "Облегченная версия",
+    "detals": "Облегченная версия для слабых ПК. Только основные моды и оптимизации.",
+    "status": 0,
+    "status_description": "",
+    "last_version": "3"
+  },
+  {
+    "name": "AdventuresTech",
+    "title": "Технический пак",
+    "detals": "Фокус на технические моды: Create, Applied Energistics, Industrial Craft и другие.",
+    "status": 1,
+    "status_description": "В разработке. Добавляем новые моды и балансируем рецепты.",
+    "last_version": "2"
+  },
+  {
+    "name": "AdventuresMagic",
+    "title": "Магический пак",
+    "detals": "Сборка с магическими модами: Thaumcraft, Ars Nouveau, Botania и другие.",
+    "status": 1,
+    "status_description": "Тестируем совместимость модов. Ожидайте релиз через 2 недели.",
+    "last_version": "1"
+  },
+  {
+    "name": "AdventuresVanilla+",
+    "title": "Ванилла+ опыт",
+    "detals": "Минимальные изменения ваниллы. Только моды на улучшение графики и QoL изменения.",
+    "status": 0,
+    "status_description": "",
+    "last_version": "4"
+  },
+  {
+    "name": "AdventuresHardcore",
+    "title": "Хардкорный выживание",
+    "detals": "Усложненный геймплей, реалистичные механики выживания, сложные боссы.",
+    "status": 0,
+    "status_description": "",
+    "last_version": "2"
   }
 ]
