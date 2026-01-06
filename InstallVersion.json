@@ -7,7 +7,7 @@
             "mod_loader": "fabric",
             "loader_version": null,
             "build_version": "v6",
-            "status": 1,
+            "status": 0,
             "status_message": "Сборка доступна для игры"
         },
         {
